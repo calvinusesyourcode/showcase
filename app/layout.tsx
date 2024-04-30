@@ -9,10 +9,10 @@ import { ThemeProvider } from "@/components/theme-provider"
 
 export const metadata: Metadata = {
   title: {
-    default: "testing scroll snap",
-    template: `%s - testing scroll snap`,
+    default: "showcase",
+    template: `%s - showcase`,
   },
-  description: "2am coding sesh hits diff",
+  description: "projects and experiments",
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "black" },
     { media: "(prefers-color-scheme: dark)", color: "black" },
